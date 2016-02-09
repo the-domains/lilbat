@@ -1,0 +1,28 @@
+name: Lilbat
+favicon: null
+layout_spectrum: 0.7323893425054848
+typography_spectrum: 0.8585330783389509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9494379565585405
+  lightness: 0.21712034498341382
+  saturation: 0.64932871167548
+  rhythmicContrast: 0.13075411668978631
+purpose: []
